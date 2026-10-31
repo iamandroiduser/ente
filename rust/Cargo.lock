@@ -2666,7 +2666,7 @@ dependencies = [
  "sha2 0.11.0",
  "shapefile",
  "thiserror 2.0.18",
- "zip 8.6.0",
+ "zip 9.0.0",
 ]
 
 [[package]]
@@ -2845,7 +2845,7 @@ dependencies = [
  "urlencoding",
  "uuid",
  "zeroize",
- "zip 8.6.0",
+ "zip 9.0.0",
 ]
 
 [[package]]
@@ -7995,9 +7995,9 @@ dependencies = [
 
 [[package]]
 name = "rustls"
-version = "0.23.40"
+version = "0.23.43"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ef86cd5876211988985292b91c96a8f2d298df24e75989a43a3c73f2d4d8168b"
+checksum = "0283386ce02abc0151e1761d08802dfe86c173b0b494af5cbc086574e453da06"
 dependencies = [
  "aws-lc-rs",
  "once_cell",
@@ -11922,9 +11922,9 @@ dependencies = [
 
 [[package]]
 name = "zip"
-version = "8.6.0"
+version = "9.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2d04a6b5381502aa6087c94c669499eb1602eb9c5e8198e534de571f7154809b"
+checksum = "711e8c9646791c49b7eb799a19c4ae70a9b8372ddc6a1fa4778defd1e2aa5d5e"
 dependencies = [
  "crc32fast",
  "flate2",
